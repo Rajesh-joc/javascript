@@ -33,3 +33,9 @@ let myObj =
     // how to find the data type of any
     // by using type 
     console.log(typeof bigNumber);
+
+
+    //****** memory concept**********
+    // stack (primitive)  , heap (non-primitive)
+    /* inside stack copy 
+    but in heap we get refrence*/
